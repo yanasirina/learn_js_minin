@@ -1,4 +1,3 @@
-// выведем приветственное сообщение в алерт
 alert('Добро пожаловать в калькулятор!')
 
 const resultElement = document.getElementById('result')
